@@ -1,16 +1,49 @@
 ![banner](media/github-banner.png)
 
-I love open source software!
+Hey, I am an **Electrical and Computer Engineer** who loves open source software!
 
-### Github Stats
+---
 
-<img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kou-ding&layout=pie&langs_count=10&theme=dark_github#gh-dark-mode-only">
+### Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-386e9c?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-669AD3?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B31E26?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNOC44NTEgMTguNTZzLS45MTcuNTM0LjY1My43MTRjMS45MDIuMjE4IDIuODc0LjE4NyA0Ljk2OS0uMjExIDAgMCAuNTUyLjM0NiAxLjMyMS42NDYtNC42OTkgMi4wMTMtMTAuNjMzLS4xMTgtNi45NDMtMS4xNDlNOC4yNzYgMTUuOTMzcy0xLjAyOC43NjEuNTQyLjkyNGMyLjAzMi4yMDkgMy42MzYuMjI3IDYuNDEzLS4zMDggMCAwIC4zODQuMzg5Ljk4Ny42MDItNS42NzkgMS42NjEtMTIuMDA3LjEzLTcuOTQyLTEuMjE4TTEzLjExNiAxMS40NzVjMS4xNTggMS4zMzMtLjMwNCAyLjUzMy0uMzA0IDIuNTMzczIuOTM5LTEuNTE4IDEuNTg5LTMuNDE4Yy0xLjI2MS0xLjc3Mi0yLjIyOC0yLjY1MiAzLjAwNy01LjY4OCAwLS4wMDEtOC4yMTYgMi4wNTEtNC4yOTIgNi41NzNNMTkuMzMgMjAuNTA0cy42NzkuNTU5LS43NDcuOTkxYy0yLjcxMi44MjItMTEuMjg4IDEuMDY5LTEzLjY2OS4wMzMtLjg1Ni0uMzczLjc1LS44OSAxLjI1NC0uOTk4LjUyNy0uMTE0LjgyOC0uMDkzLjgyOC0uMDkzLS45NTMtLjY3MS02LjE1NiAxLjMxNy0yLjY0MyAxLjg4NyA5LjU4IDEuNTUzIDE3LjQ2Mi0uNyAxNC45NzctMS44Mk05LjI5MiAxMy4yMXMtNC4zNjIgMS4wMzYtMS41NDQgMS40MTJjMS4xODkuMTU5IDMuNTYxLjEyMyA1Ljc3LS4wNjIgMS44MDYtLjE1MiAzLjYxOC0uNDc3IDMuNjE4LS40NzdzLS42MzcuMjcyLTEuMDk4LjU4N2MtNC40MjkgMS4xNjUtMTIuOTg2LjYyMy0xMC41MjItLjU2OCAyLjA4Mi0xLjAwNiAzLjc3Ni0uODkyIDMuNzc2LS44OTJNMTcuMTE2IDE3LjU4NGM0LjUwMy0yLjM0IDIuNDIxLTQuNTg5Ljk2OC00LjI4NS0uMzU1LjA3NC0uNTE1LjEzOC0uNTE1LjEzOHMuMTMyLS4yMDcuMzg1LS4yOTdjMi44NzUtMS4wMTEgNS4wODYgMi45ODEtLjkyOCA0LjU2MiAwLS4wMDEuMDctLjA2Mi4wOS0uMTE4TTE0LjQwMSAwczIuNDk0IDIuNDk0LTIuMzY1IDYuMzNjLTMuODk2IDMuMDc3LS44ODggNC44MzItLjAwMSA2LjgzNi0yLjI3NC0yLjA1My0zLjk0My0zLjg1OC0yLjgyNC01LjUzOSAxLjY0NC0yLjQ2OSA2LjE5Ny0zLjY2NSA1LjE5LTcuNjI3TTkuNzM0IDIzLjkyNGM0LjMyMi4yNzcgMTAuOTU5LS4xNTMgMTEuMTE2LTIuMTk4IDAgMC0uMzAyLjc3NS0zLjU3MiAxLjM5MS0zLjY4OC42OTQtOC4yMzkuNjEzLTEwLjkzNy4xNjggMC0uMDAxLjU1My40NTcgMy4zOTMuNjM5Ii8%2BPC9zdmc%2B)
+![MATLAB](https://img.shields.io/badge/MATLAB-fe8443?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTIzLjk2NSA5MS45MDJjLTcuMjQ2LTE4LjI5Ny0xMy4yNjItMzcuMDU4LTIwLjE4NC01NS40NzYtMy4wNTQtNy44NC02LjA0Ny0xNS43NDYtMTAuMjE1LTIzLjA4Mi0xLjY1Ni0yLjYzMy0zLjIzOC01LjUyOC01Ljk1My03LjIxNWE0LjAxMyA0LjAxMyAwIDAwLTIuMjIyLS42MDZjLTEuMjcuMDI4LTIuNTM2LjU5NC0zLjUwNCAxLjQxNS0zLjY0NSAyLjg4Ni01LjgwNSA3LjA4Mi04LjIyNyAxMC45NDktNC4yNzcgNy4xNzItOC43ODkgMTQuNjg3LTE1Ljk0MSAxOS4zNDctMy4zNiAyLjM3MS03Ljc2MiAyLjYzLTExIDUuMTcyLTQuNDMgMy4zNC03LjQ0MiA4LjA3OC0xMS4wNzQgMTIuMTg0LS44MjkuOTg4LTIuMTEgMS4zODMtMy4yMjcgMS45MThDMjEuNTc4IDYwLjkzIDEwLjczOCA2NS4zMzYgMCA2OS45OGM5LjA5IDcuMDMyIDE4Ljc3NyAxMy4yOSAyOC4wNSAyMC4wNzkgMi41NDQtLjUwNCA1LjA5OC0xLjU0NyA3LjcyLTEuMDgyIDQuMTYgMS4zIDYuNTk3IDUuMjg1IDguNTAzIDguOTMgMy44NzUgNy45NCA2LjY3NiAxNi4zMjMgOS44MTMgMjQuNTcgNS4yNDYtLjM3NSA5Ljk2OS0zLjA3OSAxNC4wMjctNi4yNTggNy44MDktNi4zMjQgMTMuNzU4LTE0LjUgMjAuMzA1LTIyLjA0NyAzLjE0LTMuMyA2LjM0LTcuMjMgMTEuMDUtOC4xNDkgNC43NjItMS4xNTIgOS44NjQuNTU1IDEzLjM5NSAzLjgzNiA0Ljk1NyA0LjQzIDkuMzQ0IDkuNTUxIDE1LjEzNyAxMi45NDItLjc3Ny0zLjgzNi0yLjY0NS03LjI3OC00LjAzNS0xMC44OTl6TTQyLjk2IDc5LjAxMmMtNC41NyAyLjcwMy05LjQyNiA0LjkzLTE0LjE3NiA3LjI4OS03LjQ1Ny00Ljk5Ni0xNC43MjMtMTAuMjktMjIuMDUtMTUuNDY1IDkuODc4LTQuMzI4IDE5LjkxLTguMzQ4IDI5LjkxNy0xMi4zODcgNC43NDYgMy43MDMgOS42MzcgNy4yMjMgMTQuMzgzIDEwLjkyNi0yLjIzIDMuNTYzLTQuOTE0IDYuODcxLTguMDc0IDkuNjM3em0xMC4xNjgtMTIuNDE0QzQ4LjQxNCA2My4wNTggNDMuNjQgNTkuNjA5IDM5IDU1Ljk3N2MyLjk3Ny00LjA1NSA2LjIzOC03Ljk3NyAxMC4xNC0xMS4xNzIgMi41ODctMS42NTcgNS43NDMtMi4xMTcgOC40MjYtMy42MSA2LjM2OC0zLjE4IDEwLjcxMS05LjAxMSAxNC44Ni0xNC41ODItNS4zMTcgMTMuODA1LTEwLjk5MiAyNy42NjQtMTkuMjk3IDM5Ljk4NXptMCAwIi8%2BPC9zdmc%2B)
+
+#### Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMS41IDBoMjFsLTEuOTEgMjEuNTYzTDExLjk3NyAyNGwtOC41NjUtMi40MzhMMS41IDB6bTE3LjA5IDQuNDEzTDUuNDEgNC40MWwuMjEzIDIuNjIyIDEwLjEyNS4wMDItLjI1NSAyLjcxNmgtNi42NGwuMjQgMi41NzNoNi4xODJsLS4zNjYgMy41MjMtMi45MS44MDQtMi45NTYtLjgxLS4xODgtMi4xMWgtMi42MWwuMjkgMy44NTVMMTIgMTkuMjg4bDUuMzczLTEuNTNMMTguNTkgNC40MTR6Ii8%2BPC9zdmc%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Typesetting
+![LaTeX](https://img.shields.io/badge/LaTeX-333333?style=for-the-badge&logo=latex&logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6172FF?style=for-the-badge&logo=docker&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-6a8a45?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+#### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCwwSDExLjM3N1YxMS4zNzJIMFpNMTIuNjIzLDBIMjRWMTEuMzcySDEyLjYyM1pNMCwxMi42MjNIMTEuMzc3VjI0SDBabTEyLjYyMywwSDI0VjI0SDEyLjYyMyIvPjwvc3ZnPg%3D%3D)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+---
+
+### Currently learning
+
+![Rust](https://img.shields.io/badge/Rust-e53510?style=for-the-badge&logo=rust&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-084554?style=for-the-badge&logo=hyprland&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 
 Continuously learning new languages, frameworks and skills.
-
-Currently learning:
-- Rust <img src="https://cdn.simpleicons.org/rust/white" width="20" height="20" alt="Rust">
-
-- Hyprland <img src="https://cdn.simpleicons.org/hyprland/white" width="20" height="20" alt="Hyprland">
-
-- NixOS <img src="https://cdn.simpleicons.org/nixos/white" width="20" height="20" alt="NixOS">
